@@ -1,7 +1,3 @@
-# backend-template
+# API for Quick Explanations of React Hooks
 
-A starter template for Express projects at Alchemy Code Lab. We'll be using this in the "Backend / API" portion of the program.
-
-## Getting Started
-
-Click "Use this template" to create a new repo with your user as the owner. Then clone down the newly created repo and get hacking!
+A simple backend project for practicing the build of an API with full CRUD capabilities, deployed to Heroku. This API compiles explanations of React Hooks.
